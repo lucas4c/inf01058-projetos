@@ -1,3 +1,0 @@
-8 Logic Elements Combinacionais.
-25 Pinos.
-10.124 de Atraso Crítico quando a saída Z[4] sofre um rise quando a entrada em S sofre um fall (FR).
